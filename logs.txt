@@ -1,0 +1,45 @@
+commit 2c37f465f5ee465bfd335097efb0cadaf5bb81ed (HEAD -> master, origin/master, bug3)
+Author: Elena240-jpg <108356236+Elena240-jpg@users.noreply.github.com>
+Date:   Sat Mar 11 22:30:06 2023 +0100
+
+    Fix method sumEvenNumbers
+
+commit 2670dc94014d2c594b13791f9bd07efbb651adcb
+Merge: 0f65649 ba3aff2
+Author: Elena240-jpg <108356236+Elena240-jpg@users.noreply.github.com>
+Date:   Sat Mar 11 22:34:48 2023 +0100
+
+    Merge branch 'bug2'
+
+commit ba3aff21f732aa126b1a9e77ebc945298139a81e (origin/bug2, bug2)
+Author: Elena240-jpg <108356236+Elena240-jpg@users.noreply.github.com>
+Date:   Sat Mar 11 22:29:18 2023 +0100
+
+    Fix wrong condition in filterOddNumbers
+
+commit 0f65649170ecadcd02157bc289819d28b1e6d324 (origin/bug1, bug1)
+Author: Elena240-jpg <108356236+Elena240-jpg@users.noreply.github.com>
+Date:   Sat Mar 11 22:19:38 2023 +0100
+:
+commit 2c37f465f5ee465bfd335097efb0cadaf5bb81ed (HEAD -> master, origin/master, bug3)
+Author: Elena240-jpg <108356236+Elena240-jpg@users.noreply.github.com>
+Date:   Sat Mar 11 22:30:06 2023 +0100
+
+    Fix method sumEvenNumbers
+
+commit 2670dc94014d2c594b13791f9bd07efbb651adcb
+Merge: 0f65649 ba3aff2
+Author: Elena240-jpg <108356236+Elena240-jpg@users.noreply.github.com>
+Date:   Sat Mar 11 22:34:48 2023 +0100
+
+    Merge branch 'bug2'
+
+commit ba3aff21f732aa126b1a9e77ebc945298139a81e (origin/bug2, bug2)
+Author: Elena240-jpg <108356236+Elena240-jpg@users.noreply.github.com>
+Date:   Sat Mar 11 22:29:18 2023 +0100
+
+    Fix wrong condition in filterOddNumbers
+
+commit 0f65649170ecadcd02157bc289819d28b1e6d324 (origin/bug1, bug1)
+Author: Elena240-jpg <108356236+Elena240-jpg@users.noreply.github.com>
+Date:   Sat Mar 11 22:19:38 2023 +0100

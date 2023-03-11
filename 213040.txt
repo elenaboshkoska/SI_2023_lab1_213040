@@ -1,0 +1,31 @@
+1. Preimenuvana granka vo master
+2. Kreiranje na sopstven lokalen direktorium so naredbata mkdir
+3. Pristap do vnatreshnosta so pomosh na naredbata cd *imeto na direktoriumot*
+4. git init za inicijaliziranje
+5. git remote add origin https://github.com/elenaboshkoska
+/SI_2023_lab1_213040
+6. touch README.md - se kreira fajl, a so nano se vleguva vo fajlot za edituvanje
+- prvo git add bidejki fajlot e untracked, za da bide on stage, pa potoa git commit -m "Initial commit"
+7. Isto dodavanje na fajl moze i direktno so nano SILab1.java i prvo git add SILab1.java, pa potoa git commit -m "Add java class"
+8. git push
+9.Se otvoraat tri granki so pomosh na naredbata git branch bug1, git branch bug2, git branch bug3
+10. so pomosh na git checkout i imeto na grankata uspevame da se prefrlime na soodvetnata granka
+11. sega otkako se prefrlivme na grankite i pravime izmeni so fajlot, dovolno e da se komituvaat so naredbata
+git commit -a -m "soodvetna poraka" poradi toa shto fajlot ednash bil na scena i sega e vo modified, ovaa komanda dozvoluva da pravime vednash commit.
+12. Otkako se sinhroniziraa site granki se vrakjame na master so git checkout master
+13.Sega se spoi grankata bug1 so master, so Fast - forward, bez konflikt
+14. git merge bug2 - Recursive strategija, pritoa se javi nov prozorec ostaven so poraka merge bug2 to master, izlez od prozorec(esc : wq)
+nema konflikt
+15. git checkout bug3
+16. git rebase master - uspeshno napraveno i apdejtirano
+17.git checkout master
+18. git merge bug3
+19. Fast-forward strategija, nema konflikt
+20. git push
+21. git log za da se izlistaat site logovi
+22. nano log.txt
+21. nano 213040.txt
+23. git add log.txt
+24. git add 213040.txt
+25. git commit -m "Final commit"
+26. git push
